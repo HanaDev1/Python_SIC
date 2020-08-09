@@ -16,6 +16,7 @@ Starting with Python basics to advanced.
    - Working Excel, PDF, Word document.
    
 2. Python libraries: 
+   
    NumPy package
    - NumPy array basics.
    - NumPy array operations.
