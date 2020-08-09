@@ -20,9 +20,11 @@ Starting with Python basics to advanced.
    - NumPy array basics.
    - NumPy array operations.
    - Linear algebra: vectors and matrics.
+   
    Pandas Packages
    - Pandas series and DataFrame.
    - Data Summarization and manipulation.
+   
    Visualization
    - Introduction to visualization. 
    - MatplotLip and pandas visualization
